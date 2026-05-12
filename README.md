@@ -167,7 +167,7 @@ My goal is to create products that are:
 # Connect
 
 - GitHub: https://github.com/yungemmy892-maker
-- Portfolio: 
+- Portfolio: https://code-with-nuel-portfolio.vercel.app/
 - Email: yungemmy892@gmail.com
 - X: https://Twitter/in/CTRL_guy
 ---
