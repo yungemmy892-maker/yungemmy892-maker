@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Frontend Engineer • Product Designer • Creative Developer
+Frontend Engineer • Creative Developer
 
 Building immersive digital experiences with modern frontend technologies, motion design, and AI-powered products.
 
