@@ -61,16 +61,6 @@ Product-Focused Development     →   Fast · Accessible · Intentional
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yungemmy892-maker&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yungemmy892-maker&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff)
-
-</div>
-
 ---
 
 <div align="center">
