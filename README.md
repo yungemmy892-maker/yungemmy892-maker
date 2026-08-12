@@ -19,7 +19,7 @@ Building immersive digital experiences at the intersection of engineering precis
 
 I'm a frontend engineer passionate about crafting high-performance, visually engaging web experiences. I care deeply about the details — the motion of a transition, the weight of a typeface, the feel of an interaction.
 
-- 🔭 Currently building **[RhemaTrem](https://github.com/yungemmy892-maker)** — a Bible platform that intelligently surfaces scripture in real time
+- 🔭 Currently building **verseid.top** — a Bible platform that intelligently surfaces scripture in real time
 - 🎨 Focused on **motion-driven UI/UX** and **AI-powered product experiences**
 - ⚡ I believe the web is the most powerful creative platform ever invented
 - 📬 Reach me at **yungemmy892@gmail.com**
